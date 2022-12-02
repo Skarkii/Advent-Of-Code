@@ -1,2 +1,5 @@
 #ignore all executables
 *.out
+
+#ignore swp files
+*.swp
