@@ -3,3 +3,5 @@
 
 #ignore swp files
 *.swp
+
+/.vscode
