@@ -4,4 +4,8 @@
 #ignore swp files
 *.swp
 
-/.vscode
+#ignore vscode
+.vscode
+.vscode/
+.vscode/*
+!.vscode/launch.json
